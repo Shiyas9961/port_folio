@@ -13,7 +13,7 @@ const ContextProvider = ({ children }) => {
         year : '2024',
         description : 'Im a Full Stack Developer',
         socialLinks : {
-            twitter : 'https://x.com/shiyasmohd2/',
+            twitter : 'https://x.com/shiyasmohd2?t=Od5KQ-S94buh4E6KPaWMMQ&s=09',
             instagram : 'https://www.instagram.com/shi_ya.s/',
             linkedin : 'https://www.linkedin.com/in/mohamed-shiyas-b-490595287/',
             gitHub : 'https://github.com/Shiyas9961/'
