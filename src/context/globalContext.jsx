@@ -32,7 +32,7 @@ const ContextProvider = ({ children }) => {
             {
                 image : ProjectImg2,
                 description : 'My Portfolio website. Built with Reactjs and TailwindCSS',
-                gitHub_link : ''
+                gitHub_link : 'https://github.com/Shiyas9961/port_folio'
             },
             {
                 image : ProjectImg3,
