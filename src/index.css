@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+    @apply px-4 py-4;
+}
+.mobile-nav {
+    @apply fixed top-[100px] bg-[#2b2d77] text-white w-full left-0 h-[250px] text-center;
+}
+.mobile-nav li{
+    @apply border-b-2 w-full text-center h-full py-2 hover:text-2xl hover:text-black duration-100;
+}
+.bg-desc{
+    @apply absolute top-0 right-0 left-0 bottom-0 flex justify-center items-center bg-[#0000009a] opacity-0 duration-500 hover:opacity-100 cursor-pointer; 
+}
+.resume-btn{
+    @apply bg-primary  px-5 py-2 font-bold hover:bg-white hover:text-[#2b2d77] rounded;
+}
+html{
+    scroll-behavior: smooth;
+}
