@@ -6,7 +6,7 @@ header {
     @apply px-4 py-4;
 }
 .mobile-nav {
-    @apply fixed top-[100px] bg-[#2b2d77] text-white w-full left-0 h-[250px] text-center;
+    @apply fixed top-[58px] bg-[#2b2d77] text-white w-full left-0 h-[250px] text-center;
 }
 .mobile-nav li{
     @apply border-b-2 w-full text-center h-full py-2 hover:text-2xl hover:text-black duration-100;
