@@ -40,7 +40,7 @@ const ContextProvider = ({ children }) => {
                 gitHub_link : 'https://github.com/Shiyas9961/techNotes'
             }
         ],
-        resume_link : `${window.location.protocol}//${window.location.host}/Resume_Mohamed Shiyas B.pdf`
+        resume_link : `${window.location.protocol}//${window.location.host}/Shiyas Resume.pdf`
     }
 
     return (
