@@ -19,9 +19,9 @@ const ContextProvider = ({ children }) => {
             gitHub : 'https://github.com/Shiyas9961/'
         },
         aboutMe : {
-            line_1 : 'I am a Full Stack Developer.I built beautiful website with Reactjs.',
+            line_1 : 'I am a Full Stack Developer.I built beautiful website with Reactjs. and Django Rest Framework',
             line_2 : 'I am proficient in Frontend skills like Reactjs, Redux, Redux Toolkit, TailwindCSS, Bootstrap5 many more...',
-            line_3 : 'In Backend I have good knowledge about Nodejs, Expressjs, MongoDB, Mongoose'
+            line_3 : 'In Backend I have good knowledge about Django Rest Framework, PostgresSql, MySql, Nodejs, Expressjs, MongoDB, Mongoose'
         },
         projects : [
             {
